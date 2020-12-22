@@ -1,1 +1,1 @@
-# project-20-pinky
+Project 20 of WhiteHat Jr. -Krish Garg
